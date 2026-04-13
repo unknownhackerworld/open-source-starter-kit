@@ -2,11 +2,11 @@
 
 Welcome to the `fix-me.md` file! This is the **only** place in this repository where you'll find intentional mistakes. Your mission, should u choose to accept it, is to find and corect them!
 
-To give you plently of opertunites to contribute, we have prepared an extremely long, comprehensive guide about programming, comunities, and open source development. There are hundred's, may be thosands of small speling, grammar, and format mistakes hiddden through out this doc. Read along, find an error, make a fix, and open your Pull Request! Remember: **Only ONE fix per PR**.
+To give you plenty of opportunities to contribute, we have prepared an extremely long, comprehensive guide about programming, communities, and open source development. There are hundred's, may be thosands of small speling, grammar, and format mistakes hiddden through out this doc. Read along, find an error, make a fix, and open your Pull Request! Remember: **Only ONE fix per PR**.
 
 ---
 
-## Chapter 1: The Begining of the Code
+## Chapter 1: The Beginning of the Code
 
 Once upon a time, their was a young devloper name Alex. Alex loves writing code. Every day, Alex woud wake up early, grab a cup of hot coffy, and sit down in front of a bright screen. The screen was fillld with lines of words that lookd like gibberish to most people, but to Alex, they were poetry. 
 
